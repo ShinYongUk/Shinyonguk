@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ICONAtals
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3f0b61325a1d64042bee4f7305c5f1d4, type: 3}
+    - {fileID: 2800000, guid: 6254fbee9fd79364b94ff6e71c3545f9, type: 3}
+    - {fileID: 2800000, guid: 9b12a0b5f461d544e83582be8491fbc1, type: 3}
+    - {fileID: 2800000, guid: 8fc06ea6b82ce2742a04dde0601e9a45, type: 3}
+    - {fileID: 2800000, guid: 5ed9859f42ba4b648a30d2711ab0d539, type: 3}
+    - {fileID: 2800000, guid: 4e44c2a3c803f8842b3bb3b72736a34d, type: 3}
+    totalSpriteSurfaceArea: 344064
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3f0b61325a1d64042bee4f7305c5f1d4, type: 3}
+  - {fileID: 21300000, guid: 4e44c2a3c803f8842b3bb3b72736a34d, type: 3}
+  - {fileID: 21300000, guid: 9b12a0b5f461d544e83582be8491fbc1, type: 3}
+  - {fileID: 21300000, guid: 8fc06ea6b82ce2742a04dde0601e9a45, type: 3}
+  - {fileID: 21300000, guid: 6254fbee9fd79364b94ff6e71c3545f9, type: 3}
+  - {fileID: 21300000, guid: 5ed9859f42ba4b648a30d2711ab0d539, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UPDATE
+  - OBJLIST
+  - Info
+  - Monitoring_f
+  - gps
+  - setting
+  m_Tag: ICONAtals
+  m_IsVariant: 0

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+	<connectionString>
+
+		<![CDATA[
+			Server=tsimul.ca5dvvbhmmwy.ap-northeast-2.rds.amazonaws.com;Database=tsimul;uid=trainmaster;Pwd=dongjot14p3;
+		]]>
+ 
+	</connectionString>
+
+	<query id="LineSelect">
+		<![CDATA[
+			SELECT * FROM tb_line
+		]]>
+	</query>
+
+	<query id="StationSelect">
+		<![CDATA[
+			SELECT * FROM tb_station
+		]]>
+	</query>
+
+	<query id="SubwaySelect">
+		<![CDATA[
+			SELECT * FROM tb_subway
+		]]>
+	</query>
+
+
+	<query id="SubwayModelSelect">
+		<![CDATA[
+			SELECT * FROM tb_subwaymodel
+		]]>
+	</query>
+
+</root>
+

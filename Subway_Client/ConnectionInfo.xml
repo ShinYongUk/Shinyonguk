@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ID>UDPCLIENT1</ID>
+  <IP>127.0.0.1</IP>
+  <PORT>5001</PORT>
+</root>
