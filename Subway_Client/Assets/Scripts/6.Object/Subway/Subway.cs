@@ -173,7 +173,7 @@ public class Subway : MonoBehaviour, IPopObject
     public void onPopUp()
     {
         UIProxy.Instance.UIManager.OnClick_PopUp();
-        Utility.AddText(UIProxy.Instance.UIManager.PopUp_Panel.GetParentObj(), "지하철 코드:"+subwayInfo.subwaycode + ", 손님 초과");
+        Utility.AddText(UIProxy.Instance.UIManager.PopUp_Panel.GetParentObj(), "지하철 코드: "+subwayInfo.subwaycode + ", 손님 초과");
     }
 
     #endregion
