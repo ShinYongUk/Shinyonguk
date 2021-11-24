@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+	<connectionString>
+
+		<![CDATA[
+			Server=tsimul.ca5dvvbhmmwy.ap-northeast-2.rds.amazonaws.com;Database=tsimul;uid=trainmaster;Pwd=dongjot14p3;
+		]]>
+ 
+	</connectionString>
+
+</root>
+
